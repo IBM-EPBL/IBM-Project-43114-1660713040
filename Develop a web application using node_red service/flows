@@ -1,0 +1,47 @@
+[
+    {
+        "id": "147146a0342debce",
+        "type": "ibmiot in",
+        "z": "6ed1189c17ed0439",
+        "authentication": "apiKey",
+        "apiKey": "bf9996433728395e",
+        "inputType": "evt",
+        "logicalInterface": "",
+        "ruleId": "",
+        "deviceId": "BIN4ID",
+        "applicationId": "",
+        "deviceType": "BIN4",
+        "eventType": "+",
+        "commandType": "",
+        "format": "json",
+        "name": "IBM IoT",
+        "service": "registered",
+        "allDevices": "",
+        "allApplications": "",
+        "allDeviceTypes": false,
+        "allLogicalInterfaces": "",
+        "allEvents": true,
+        "allCommands": "",
+        "allFormats": "",
+        "qos": 0,
+        "x": 230,
+        "y": 1000,
+        "wires": [
+            [
+                "71be31afc89560dd",
+                "a0cbff62cdd2e77c",
+                "c49cd92e337f886b"
+            ]
+        ]
+    },
+    {
+        "id": "bf9996433728395e",
+        "type": "ibmiot",
+        "name": "Gogul",
+        "keepalive": "60",
+        "serverName": "",
+        "cleansession": true,
+        "appId": "",
+        "shared": false
+    }
+]
