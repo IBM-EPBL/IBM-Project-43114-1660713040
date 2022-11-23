@@ -11,5 +11,31 @@ Python,IOT Cloud Platform ,IBM Cloud,Node- RED,IBM IoT Platform,IBM Nodered,IBM 
   <li>We can view the location of every bin in the web application by sending GPS location from the device.</li>
 </ul>
 <h2><em><strong>Demo Videos are given below:</strong></em></h2>
+<div align="left">
+
+    <video src="https://user-images.githubusercontent.com/114855932/203518407-0222b3f8-106b-4bac-b590-899763fc0dc1.mp4" data-canonical-src="https://user-images.githubusercontent.com/114855932/203518407-0222b3f8-106b-4bac-b590-899763fc0dc1.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
+
+  </video>
+
+    <br />
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://user-images.githubusercontent.com/114855932/203518407-0222b3f8-106b-4bac-b590-899763fc0dc1.mp4
