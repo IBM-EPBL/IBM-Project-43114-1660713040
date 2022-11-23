@@ -30,7 +30,15 @@ Python,IOT Cloud Platform ,IBM Cloud,Node- RED,IBM IoT Platform,IBM Nodered,IBM 
 
 
 <h1><em><strong>*** Demonstration ***</strong></em></h1>
-     https://user-images.githubusercontent.com/114855932/203554557-3b3d3783-5a3b-45d2-acd5-5d339201f5fa.mp4
+
+  <p align="center">
+    <h1>Smart Waste Management System For Metropolitan Cities</h1>
+    <div align="left">
+    <video src="     https://user-images.githubusercontent.com/114855932/203554557-3b3d3783-5a3b-45d2-acd5-5d339201f5fa.mp4" data-canonical-src="     https://user-images.githubusercontent.com/114855932/203554557-3b3d3783-5a3b-45d2-acd5-5d339201f5fa.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
+
+  </video>
+    <br />
+
 
 
 <h1><em><strong>*** Simulation ***</strong></em></h1>
