@@ -52,8 +52,6 @@ Python,IOT Cloud Platform ,IBM Cloud,Node- RED,IBM IoT Platform,IBM Nodered,IBM 
     <br />
 
 
-https://user-images.githubusercontent.com/114855932/203556323-540b9e6b-ca5c-41c3-9d39-f831fe35ee99.mp4
-
 
 <h1><em><strong>*** Simulation ***</strong></em></h1>
 
